@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.Aeroviation" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
@@ -14,3 +15,10 @@
         <!-- Customize your theme here. -->
     </style>
 </resources>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>
+>>>>>>> 08969252ab3f076029ed083e885ad8782b2eb368

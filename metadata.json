@@ -1,0 +1,6 @@
+{
+  "name": "Aeroviation",
+  "description": "Master the physics of flight, aerospace structures, and spacecraft systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

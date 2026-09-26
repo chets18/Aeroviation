@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
     android:width="108dp"
@@ -28,3 +29,13 @@
         android:strokeWidth="1"
         android:strokeColor="#00000000" />
 </vector>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="66dp"
+        android:height="66dp"
+        android:drawable="@drawable/aeroviation_logo_1780838946263"
+        android:gravity="center" />
+</layer-list>
+>>>>>>> 08969252ab3f076029ed083e885ad8782b2eb368

@@ -3,4 +3,8 @@
     <background android:drawable="@drawable/ic_launcher_background" />
     <foreground android:drawable="@drawable/ic_launcher_foreground" />
     <monochrome android:drawable="@drawable/ic_launcher_foreground" />
+<<<<<<< HEAD
 </adaptive-icon>
+=======
+</adaptive-icon>
+>>>>>>> 08969252ab3f076029ed083e885ad8782b2eb368
