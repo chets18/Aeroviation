@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AndroidProjectSystem">
     <option name="providerId" value="com.android.tools.idea.GradleProjectSystem" />
   </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidProjectSystem">
+    <option name="providerId" value="com.android.tools.idea.GradleProjectSystem" />
+  </component>
+>>>>>>> 08969252ab3f076029ed083e885ad8782b2eb368
 </project>

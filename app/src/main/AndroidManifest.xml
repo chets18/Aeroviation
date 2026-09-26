@@ -10,6 +10,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
+        android:theme="@style/Theme.Aeroviation" />
+
+</manifest>
+=======
         android:theme="@style/Theme.MyApplication">
         <activity
             android:name=".MainActivity"
@@ -25,3 +30,4 @@
     </application>
 
 </manifest>
+>>>>>>> 08969252ab3f076029ed083e885ad8782b2eb368
